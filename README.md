@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Elieser Damian Castro Eusebio 👋
 
-<!--
-**theleerise/theleerise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un DBA ORACLE y desarrollador con experiencia en **Python, Apex y PL/SQL**. Trabajo en TAI Solutions Iberia en España.
 
-Here are some ideas to get you started:
+- 🌍 Ubicación: España
+- 🏢 Empresa: TAI Solutions Iberia
+- 🕒 Zona horaria: UTC +01:00
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y herramientas
+- **Bases de datos**: ORACLE
+- **Lenguajes de programación**: Python, PL/SQL
+- **Frameworks**: Apex
+- **Otras herramientas**: SQLAlchemy
+
+## Proyectos destacados
+- [BKLibDB](https://github.com/theleerise/BKLibDB): Librería personalizada para interacción con bases de datos utilizando SQLAlchemy.
+- [toolkit_PL_SQL](https://github.com/theleerise/toolkit_PL_SQL): Conjunto de herramientas PL/SQL para solucionar problemas rápidamente.
+
+## Contacto
+- **GitHub**: [theleerise](https://github.com/theleerise)
