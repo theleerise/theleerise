@@ -8,8 +8,8 @@ Soy un DBA ORACLE y desarrollador con experiencia en **Python, Apex y PL/SQL**. 
 - 🕒 Zona horaria: UTC +01:00
 
 ## Tecnologías y herramientas
-- **Bases de datos**: ORACLE
-- **Lenguajes de programación**: Python, PL/SQL
+- **Bases de datos**: ORACLE, PostgreSQL, MySQL, MSSQL
+- **Lenguajes de programación**: Python, PL/SQL, Javascript, AWK, C#, Java, SQK
 - **Frameworks**: Apex
 - **Otras herramientas**: SQLAlchemy
 
