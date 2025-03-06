@@ -16,6 +16,7 @@ Soy un DBA ORACLE y desarrollador con experiencia en **Python, Apex y PL/SQL**. 
 ## Proyectos destacados
 - [BKLibDB](https://github.com/theleerise/BKLibDB): Librería personalizada para interacción con bases de datos utilizando SQLAlchemy.
 - [toolkit_PL_SQL](https://github.com/theleerise/toolkit_PL_SQL): Conjunto de herramientas PL/SQL para solucionar problemas rápidamente.
+- Py4OraSentinel: Aplicativo para administracion y automatización de Oracle Database (**PROXIMAMENTE**)
 
 ## Contacto
 - **GitHub**: [theleerise](https://github.com/theleerise)
