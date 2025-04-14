@@ -1,4 +1,4 @@
-# ¡Hola! Soy Elieser Damian Castro Eusebio 👋
+# ¡Hola! Soy Elieser Castro 👋
 
 ## Sobre mí
 Soy un DBA ORACLE y desarrollador con experiencia en **Python, Apex y PL/SQL**. Trabajo en TAI Solutions Iberia en España.
@@ -15,6 +15,7 @@ Soy un DBA ORACLE y desarrollador con experiencia en **Python, Apex y PL/SQL**. 
 
 ## Proyectos destacados
 - [BKLibDB](https://github.com/theleerise/BKLibDB): Librería personalizada para interacción con bases de datos utilizando SQLAlchemy.
+- [BKLibOra](https://github.com/theleerise/BKLibOra): Libreria personalizada para interaccion con bases de datos Oracle
 - [toolkit_PL_SQL](https://github.com/theleerise/toolkit_PL_SQL): Conjunto de herramientas PL/SQL para solucionar problemas rápidamente.
 - Py4OraSentinel: Aplicativo para administracion y automatización de Oracle Database (**PROXIMAMENTE**)
 
